@@ -534,16 +534,3 @@ BODY {
   vertical-align : middle ;
   color : #FF9900;
 }
-
-
-div#bart {
-
-    background: url(https://www.brainturk.com/images/bart/bart_bg.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-canvas {
-    background-color: transparent !important;
-	}
-
