@@ -3,7 +3,7 @@ $(document).ready(function() {
 					// general settings
 					var s = { sndpath: "images/bart/", // path to sound files
 						showpumpcount: true,
-						balloon: { popprob: 5, increment: .013, earnings: 0.02},
+						balloon: { popprob: 13, increment: .013, earnings: 0.02},
 						onload:    function() { $('#os').hide(); },  // hide submit button on the page
 						onend:     function() { 
 							$('#os').show();  // show submit button 
